@@ -9,8 +9,8 @@ body {
 }
 
 img {
-  height: 40%;
-  width: 20%;
+  height: 80%;
+  width: 40%;
     }
 
 p {
@@ -23,5 +23,6 @@ h4 {
 
 #profilePhoto {
   float: right;
+  text-align: center;
 }
   
