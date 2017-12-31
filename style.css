@@ -34,5 +34,6 @@ h4 {
 #profilePhoto {
   float: right;
   text-align: center;
+  transform: rotate(7deg);
         }
   
