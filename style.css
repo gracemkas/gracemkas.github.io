@@ -4,10 +4,7 @@
 
 body {
   font-family: Helvetica, serif;
-  margin-right: 10%;
-  margin-left: 10%;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin: 5% 10% 5% 10%;
 }
 
 img {
