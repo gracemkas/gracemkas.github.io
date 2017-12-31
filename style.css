@@ -9,7 +9,6 @@
 body {
   font-family: Helvetica, serif;
   margin: 5% 10% 5% 10%;
-  background-color: #F5F5F5;
         }
 
 img {
@@ -34,3 +33,6 @@ h4 {
   transform: rotate(4deg);
         }
   
+@keyframes backColor {
+    from {background-color: #F5F5F5;}
+    to {background-color: #FFEFD5;}
