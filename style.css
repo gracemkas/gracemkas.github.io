@@ -9,8 +9,9 @@ body {
 }
 
 img {
-  height: 50%;
-  width: 25%;
+  height: 60%;
+  width: 30%;
+  border: 6px solid gray;
     }
 
 p {
