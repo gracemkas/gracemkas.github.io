@@ -33,9 +33,9 @@ h4 {
   text-align: center;
   transform: rotate(4deg);
   animation-name: rotateimg;
-  animation-duration: 30s;
+  animation-duration: 100s;
         }
   
 @keyframes rotateimg {
     from {transform: rotate(4deg);}
-    to {transform: rotate(120deg);}
+    to {transform: rotate(360deg);}
